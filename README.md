@@ -13,3 +13,4 @@ This is the 2nd Assignment for the Google Coursera Specilization course. It show
 9 - >$75,000
 
 If I had more time I would have preferred to list these values instead of the numbers given in the codebook.
+All coding and visualizations done in RStudio
